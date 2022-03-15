@@ -1,4 +1,4 @@
-## LandoDanvers   Olá, eu sou o Orlando Cerqueira
+##  Olá, eu sou o Orlando Cerqueira e estudo WEB Designer
 <div align="center">
   <a href="https://github.com/landodanvers">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=landodanvers&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
