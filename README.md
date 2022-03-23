@@ -1,4 +1,4 @@
-##  Olá amigos, sejam bem vindos!
+##  <h1>Olá amigos, sejam bem vindos!</h1>
 <div align="center">
   <a href="https://github.com/landodanvers">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=landodanvers&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -12,10 +12,14 @@
 </div>
   
   ##
- 
+  <div style="display: block">
+  <h2>REDES SOCIAIS</h2>
+   </div>
 <div> 
   <a href="https://instagram.com/lando_cerqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/landodanvers" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/orlando-cerqueira-0891b11a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+   
