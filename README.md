@@ -20,7 +20,8 @@
  	<a href="https://www.twitch.tv/landodanvers" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/orlando-c-0891b11a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    	<a href="mailto:landodanvers@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" target="_blank"></a> 
- 
-</div>
+     ![Snake animation](https://github.com/landodanvers/landodanvers/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
 
    
